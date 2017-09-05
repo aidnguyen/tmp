@@ -1,0 +1,5 @@
+default: 70
+main:
+  /data: 85
+  /: 10
+  /home/kisensum: 50
